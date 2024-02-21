@@ -8,6 +8,8 @@
 
 ### New features
 
+Use RECOMMENDED_IPHONEOS_DEPLOYMENT_TARGET and similar to keep SDK targets up-to-date with the current version of Xcode.
+
 - **AWSS3TransferUtility**
   - Adding support for path-style access requests
 
